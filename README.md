@@ -19,4 +19,5 @@ Simplified version of Blackjack. Allows user to buy in, then bet against the dea
   <li>Allow Ace to be 1/11.</li>
   <li>Implement advanced options for splits, doubles, side bets, and more.</li>
   <li>Create a simple GUI.</li>
+  <li>Possibly allow more players?</li>
 </ul>
