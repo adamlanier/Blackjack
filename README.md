@@ -1,8 +1,6 @@
 # Blackjack
 Simple blackjack game. (work in progress)
 
-<h2>What is this game?</h2>
-Simplified version of Blackjack. Allows user to buy in, then bet against the dealer.
 
 <h2>What are the rules?</h2>
 <ul>
